@@ -4,3 +4,4 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/.idea.NetCore/.idea/workspace.xml
+*.idea/workspace.xml

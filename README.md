@@ -5,6 +5,6 @@ installation time when starting your CI / CD pipeline.
 
 # Projects 
 
-## Console App
-## Aspnet Core MVC App
-## Unit Test    
+1) Console App
+2) Aspnet Core MVC App
+3) Unit Test    
